@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "youtube-like_frontweb": "git@github.com:devways/youtube-like_frontweb.git",
+    "youtube-like_frontnative": "git@github.com:devways/youtube-like_frontnative.git",
+    "youtube-like_frontdesktop": "git@github.com:devways/youtube-like_frontdesktop.git",
+    "youtube-like_graphql": "git@github.com:devways/youtube-like_graphql"
+  }
+}
